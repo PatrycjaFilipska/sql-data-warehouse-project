@@ -69,15 +69,12 @@ For more details, refer to [docs/requirements.md](https://github.com/DataWithBa
 
 General Principes
 
----
 
 - Naming Conventions: Use snake_case, with lowercase letters and underscores to separate words
 - Language: Use English for all names
 - Avoid Reserved Words: Do not use SQL reserved words as object names
 
 **Table Naming Conventions**
-
----
 
 [**Bronze Rules**](https://drive.google.com/file/d/1urYQWUwwWtxDd4UQN2JZ5MIWCaYb0Ocr/view?usp=sharing)
 

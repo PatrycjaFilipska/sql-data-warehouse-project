@@ -65,3 +65,6 @@ General Principes
     - Examples:
         - dim_customers → Dimension table for customer data
         - fact_sales → Fact table containing sales transactions
+     
+
+Data Warehouse Project on Notion: https://www.notion.so/Data-Warehouse-Project-32e26d18bccb8059a7fdf108de95e904?source=copy_link

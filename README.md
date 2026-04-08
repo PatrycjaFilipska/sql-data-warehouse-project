@@ -1,6 +1,10 @@
 # sql-data-warehouse-project
 Building a modern data warehouse with SQL Server, including ETL processes, data modeling and analytics.
 
+This project was developed as part of the Data with Baraa course and reflects my hands-on practice with SQL.
+
+All code included in this repository was written independently by me. I worked through each step of the process on my own to better understand the concepts and strengthen my practical skills.
+
 # Project Requirements
 
 Building the Data Warehouse (Data Engineering)
@@ -67,4 +71,4 @@ General Principes
         - fact_sales → Fact table containing sales transactions
      
 
-Data Warehouse Project on Notion: https://www.notion.so/Data-Warehouse-Project-32e26d18bccb8059a7fdf108de95e904?source=copy_link
+Data Warehouse Project Roadmap on Notion: https://www.notion.so/Data-Warehouse-Project-32e26d18bccb8059a7fdf108de95e904?source=copy_link
